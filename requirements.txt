@@ -2,7 +2,7 @@ PyQt6==6.5.0
 pdf2docx==0.5.6
 pytesseract==0.3.10
 Pillow==9.5.0
-tqdm==4.65.0
+tqdm==4.66.3
 python-docx==0.8.11
 PyPDF2==3.0.1
 pdf2image==1.16.3 
